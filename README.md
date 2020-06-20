@@ -1,4 +1,11 @@
 # SearchFight
+***********Note as of no i have hard coded the values of google count since the id value is not getting from response *********
+// var node = htmlDoc.GetElementbyId("resultStats");
+// var content = node.InnerText;
+     //Hard coded belowhere since on respense cant find the element count value on this line of code var node = 
+        /// var content = "6,42,0000"
+        ***************************************************
+        
 Console application for comparing the result quantity of Google and Bing search engine
 
 To determine the popularity of programming languages on the internet we want to you to write an application that queries search engines and compares how many results they return, for example:
