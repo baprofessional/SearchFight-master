@@ -1,0 +1,10 @@
+{
+  "SearchEngines": {
+    "Google": {
+      "BaseUrl": "https://www.google.com.pe/search"
+    },
+    "Bing": {
+      "BaseUrl": "https://www.bing.com/search"
+    }
+  }
+}
